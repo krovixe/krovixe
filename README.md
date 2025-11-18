@@ -1,4 +1,4 @@
-# 👋 Moin, ich bin krovixe!
+# 👋 Hi, I'm krovixe!
 
 ## 🧑‍💻 About Me
 - 💡 Passion for bots, automation & creative dev experiments
