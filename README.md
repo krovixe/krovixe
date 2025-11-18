@@ -1,7 +1,10 @@
-# 👋 Hey, I'm Krovixe!
+# 👋 Moin, ich bin krovixe!
 
-Just a regular guy who spends a bit **too much time online** 😅
-I enjoy tinkering with small projects that sometimes actually work.
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavoyxe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  
+</div>
 
 ---
 
@@ -13,17 +16,55 @@ I enjoy tinkering with small projects that sometimes actually work.
 
 ---
 
-## 🪛 Discord
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="background-color: #2f3136; padding: 10px; border-radius: 10px; width: fit-content;">
-    <a href="https://discord.com/users/1279122901362278413">
-      <img src="https://lanyard.cnrad.dev/api/1279122901362278413" alt="Discord Presence">
-    </a>
-  </div>
+### 📊 GitHub Activity
+
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyxe&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xavoyxe&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-### 🧩 Fun Fact
-> I still call `console.log()` my best debugger.
-> Fight me. 😎
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+</div>
+
+---
+
+## 🪛 Discord
+
+<div align="center">
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1279122901362278413)](https://discord.com/users/1279122901362278413)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💬 Let's Connect!
+  
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/xavoyxe)
+  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1279122901362278413)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=xavoyxe&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
